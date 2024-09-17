@@ -1,6 +1,7 @@
 # Documentació bàsica del projecte
 Alguns dels punts que han de quedar explicats:
  * Objectius
+ * Prototype
  * Arquitectura bàsica
    * Tecnologies utilitzades
    * Interrelació entre els diversos components
